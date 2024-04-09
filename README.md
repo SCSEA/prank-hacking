@@ -63,6 +63,8 @@ pkg install python3
 
 cd prank-hacking
 
+git clone https://github.com/SCSEA/prank-hacking.git
+
 python3 prank-hacking.py
 
 # Follow me ...
